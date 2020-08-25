@@ -1,3 +1,4 @@
+name: pyiron_generalized_dipole
 channels:
 - conda-forge
 dependencies:
