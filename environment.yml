@@ -3,6 +3,6 @@ channels:
 dependencies:
 - python=3.7.6
 - sphinxdft=2.6.1
-- pyiron=0.2.17
+- pyiron=0.4.3
 - jupyter=1.0.0
-- nglview=2.7.5
+- nglview=2.7.7
